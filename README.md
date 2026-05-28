@@ -1,6 +1,6 @@
 # Hey, I'm Gurnit 👋
 
-First-year Computer Engineering student at McMaster University, 
+Second-year Computer Engineering student at McMaster University, 
 building toward embedded systems and edge AI. I care about 
 getting intelligence onto hardware — real sensors, real constraints, 
 real environments.
