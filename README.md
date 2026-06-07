@@ -2,7 +2,7 @@
 
 Second-year Computer Engineering student at McMaster University, 
 building toward embedded systems and edge AI. I care about 
-getting intelligence onto hardware — real sensors, real constraints, 
+getting intelligence onto hardware, such as: real sensors, real constraints, 
 real environments.
 
 ## 🔧 What I'm Working On
